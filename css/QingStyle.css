@@ -1,0 +1,159 @@
+body{
+
+	margin:0 auto;
+	text-align:left;
+	background:#fff  !important;
+	color:black !important;
+	/*margin-left:10px;
+	margin-top:10px;
+	margin-right:10px;*/
+	
+}
+div{
+	
+	background:#fff  !important;
+	/*background:black;*/
+}
+.qinghead{
+	border:solid 0px red;
+	height:60px;
+	padding-top:3px;
+	padding-left:10px;
+
+	/*background:#fff  !important;*/
+	/*display:none;*/
+}
+.menubtn{
+	float:right;
+	
+	/*display:none;*/
+
+}
+.logo{
+	border:solid 2px black;
+	padding-left:3px;
+	padding-top:1px;
+	width:150px;
+	height:46px;
+	float:left;
+	
+	/*display:none;*/
+}
+.showmenubar{
+
+	width:510px;
+	height:30px;
+	float:right;
+	/*margin:0 auto;*/
+	border:solid 0px red;
+	display:inline;
+	padding-top:15px;
+	padding-right:20px;
+	/*display:none;*/
+	/*margin-right:100px;*/
+	
+	
+	
+}
+.menuitem{
+	/*position:relative;*/
+
+	display:inline;
+	width:100px;
+	height:25px;
+	border:solid 0px black;
+	float:right;
+	white-space: nowrap;
+    text-decoration: none;
+    text-align:right;
+    /*padding-left:3px;*/
+    /*padding-top:10px;*/
+    cursor:pointer;
+    font-size:120%;
+ 	font-weight: bold;
+ 	
+	/*display:none;*/
+	/*padding-left:20px;*/
+
+}
+.hidemenubar{
+	
+	float:right;
+}
+.Qingcontent{
+	width:100%;
+	height:500px;
+	text-align:center;
+	border:solid red 0px;
+	/*background:black;*/
+	
+}
+.mainImage{
+	width:100%;
+	margin:0 auto;
+	/*height:700px;*/
+	/*color:red;*/
+	/*display:none;*/
+	vertical-align:middle;
+	/*background:black;*/
+	/*padding-left:10px;*/
+	border:solid #fff 0px;
+}
+.footer{
+	
+	/*display:none;*/
+	  /* 設定footer的高度 */
+    height: 140px;
+    box-sizing: border-box;
+    /* 設定footer絕對位置在底部 */
+    position: absolute;
+    bottom: 0;
+    /* 展開footer寬度 */
+    width: 100%;
+    background:#000;
+}
+
+/*#menubar {
+		margin: 0;
+		padding: 0;
+		list-style: none;
+	}
+	#menubar li {
+		float: left;
+		padding: 0 5px;
+	}
+	#menubar li a {
+		display: block;
+		height: 16px;
+		line-height: 16px;
+		text-indent: -9999px;
+	}
+	#menubar a.v1 {
+		width:68px; 
+		background:  url(v1.gif) no-repeat 0 0;	
+	}
+	#menubar a.v2 {
+		width:67px;
+		background:  url(v2.gif) no-repeat 0 0;	
+	}	
+	#menubar a.v3 {
+		width:67px; 
+		background:  url(v3.gif) no-repeat 0 0;	
+	}
+	#menubar a.v4 {
+		width: 67px; 
+		background:  url(v4.gif) no-repeat 0 0;	
+	}
+	
+
+	
+	#menubar li a {
+		-webkit-transition: background-position 0.2s;	
+		-moz-transition: background-position 0.2s;		
+		-ms-transition: background-position 0.2s;		
+		-o-transition: background-position 0.2s;		
+		transition: background-position 0.2s;
+	}
+	#menubar li a:hover {
+		background-position: 0 -16px;
+	}*/
